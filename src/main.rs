@@ -11,7 +11,7 @@ fn main() {
 
     let crypt_message: String = message.crypt();
 
-    println!("Le message crypté: {}", crypt_message);
+    println!("The encrypted message is: {}", crypt_message);
 
 
     let mut dmessage: Message = Message::new(true, String::from("m./. .$.l.+.t./. .i.&. .@.ù.~."), '.');
@@ -21,5 +21,5 @@ fn main() {
 
     let dcrypt_message: String = dmessage.decrypt();
 
-    println!("Le message en clair est: {}", dcrypt_message);
+    println!("The clear message corresponding is: {}", dcrypt_message);
 }
