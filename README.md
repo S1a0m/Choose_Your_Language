@@ -1,11 +1,7 @@
-Il s'agit d'une lib de test.
+This is a test lib.
 
-En fait, c'est le fameux projet coDS en plus simple, en une petite lib Rust, en plus bête.
-Je rigole 😅. Même si c'est un peu vrai.
-Le projet coDS était déjà ambitieux pour le petit débutant que j'étais. 
-Mais le code était presque dégueu 🥴.
+In fact, it's the famous coDS project in a simpler way, in a small Rust lib, in a dumber way. I'm kidding 😅. Even if it's a bit true. The coDS project was already ambitious for the little beginner that I was. But the code was almost disgusting 🥴.
 
-C'est prévu pour une futur app gui Slint/Rust. 
-Mais vous pouvez le tester et l'utiliser.
+It's planned for a future Slint/Rust gui app. But you can test it and use it.
 
-Même s'il ne possède pas de documentation.
+Even if it doesn't have any documentation.
